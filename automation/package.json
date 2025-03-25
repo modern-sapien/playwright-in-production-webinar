@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13",
+    "checkly": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  },
+  "scripts": {}
+}
